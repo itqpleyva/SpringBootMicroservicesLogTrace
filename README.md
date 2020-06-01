@@ -112,7 +112,7 @@
 <p>If we go to: http://localhost:8080/ we can see: "Hello from microservice" message</p>
 <p>If we go to: http://localhost:8080/home we can see: "Error type=Not Found, status=404" message</p>
 	
-<h3>Then we can go to zipkin server to see bouth logs:</h3>	
+<h3>Then we can go to zipkin server(http://localhost:9411/zipkin/) to see bouth logs:</h3>	
 		
 <img src="zipkin1.png"/>
 		
